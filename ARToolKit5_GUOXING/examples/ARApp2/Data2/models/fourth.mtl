@@ -1,0 +1,10 @@
+newmtl xkmSG
+illum 1
+Kd 0.00 0.00 0.00
+Ka 2.50 2.50 2.50
+Tf 1.00 1.00 1.00
+map_Ka mtr.jpg
+map_Kd mtr.jpg
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 3.66
