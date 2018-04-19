@@ -4,8 +4,11 @@ Code: 17CS088
 Supervisor: Dr. WONG, Hau San Raymond
 Title: Mobile application based on AR technology
 
+Department of Computer Science
+City University of Hong Kong
 
-Project info:
+
+Package info:
     source package:
         ARToolKit5_GUOXING/examples/ARAppNFT
     3D models:
