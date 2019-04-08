@@ -1,7 +1,7 @@
 GUO Xing
 Final year project
-Code: 17CS088
-Supervisor: Dr. WONG, Hau San Raymond
+Code: ******
+Supervisor: *************
 Title: Mobile application based on AR technology
 
 Department of Computer Science
